@@ -286,6 +286,10 @@ footer {
     font-weight: 800;
 }
 
+.lightbold {
+    font-weight: 450;
+}
+
 .italic {
     font-style: italic;
 }
