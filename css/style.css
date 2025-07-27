@@ -60,9 +60,14 @@ p {
 }
 
 ul, li {
-    line-height: 1.5;
+    line-height: 1.25;
     margin-left: 1em;
 }
+
+li {
+    margin-bottom: .5em;
+}
+/* this item increases spacing of nested list items */
 
 *:focus {
     border: 2px solid;
@@ -296,8 +301,15 @@ footer {
 
 .smaller {
     font-size: .8em;
+    /* padding-left: 20px; */
 }
+/* class for non-nested but smaller sized lists */
 
+.sublist {
+    font-size: .8em;
+    padding-left: 20px;
+}
+/* class for nested lists */
 
 
 
