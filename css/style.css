@@ -519,8 +519,8 @@ ol {
     .connector {
         width: 2px;
         height: 1.25rem;
-        background-color: #8BB8D8;
-        opacity: 0.75;
+        background-color: #223A59;
+        opacity: 0.33;
         margin: 0.75rem 0 0.75rem 0.25rem;
     }
 
