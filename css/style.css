@@ -514,6 +514,21 @@ ol {
 }
 
 
+/* NEW / TESTING (keep building here) vv */
+
+    .connector {
+        width: 2px;
+        height: 1.25rem;
+        background-color: #8BB8D8;
+        opacity: 0.75;
+        margin: 0.75rem 0 0.75rem 0.25rem;
+    }
+
+
+
+
+
+/* MEDIA QUERIES BELOW vvv */
 
 /* fixing button issue on mobile (i hope) */
 @media screen and (max-width: 443px) {
